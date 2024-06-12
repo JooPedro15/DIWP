@@ -2,8 +2,8 @@
 Documentation        Collab login procedure
 Library              SeleniumLibrary
 Library              CryptoLibrary    variable_decryption=False    key_path=C:/Users/jsilva04/AppData/Local/Programs/Python/Python312/Lib/site-packages/CryptoLibrary/keys/jsilva@icrc.org/
-Resource             DW/custom_libraries/customized_keywords.robot
-Resource             DW/Collab/resources/homepage.robot
+Resource             DIWP/custom_libraries/customized_keywords.robot
+Resource             DIWP/Collab/resources/homepage.robot
 
 
 *** Variables ***

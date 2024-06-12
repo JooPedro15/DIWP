@@ -1,8 +1,8 @@
 *** Settings ***
 Documentation        Collab Libraries
 Library              SeleniumLibrary
-Resource             DW/custom_libraries/customized_keywords.robot
-Resource             DW/Collab/resources/homepage.robot
+Resource             DIWP/custom_libraries/customized_keywords.robot
+Resource             DIWP/Collab/resources/homepage.robot
 
 
 *** Variables ***
