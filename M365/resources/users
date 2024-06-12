@@ -1,0 +1,12 @@
+Access to Ivan tenant
+
+Library              CryptoLibrary    variable_decryption=False    key_path=C:/Users/jsilva04/AppData/Local/Programs/Python/Python312/Lib/site-packages/CryptoLibrary/keys/joao.silva_ivan_enc/
+${tenant_url}    https://zmgrh.sharepoint.com/teams/TestFinal4
+${user_email}    joao.silva@zmgrh.onmicrosoft.com
+${enc_pass}      crypt:V6/YsSxX73L4YNxk3BR5UFpxG5gnxsxG8XseIy3OZjP+FRf0YXczOy9f1HLbLduovcvtaOpCUZM6EHrAwQ==
+
+Library              CryptoLibrary    variable_decryption=False    key_path=C:/Users/jsilva04/AppData/Local/Programs/Python/Python312/Lib/site-packages/CryptoLibrary/keys/jsilva.testnms_enc/
+${tenant_url}    https://icrcspace.sharepoint.com/teams/Team_Requests
+${user_email}    jsilva@testnms.icrc.org
+${enc_pass}      crypt:V6/YsSxX73L4YNxk3BR5UFpxG5gnxsxG8XseIy3OZjP+FRf0YXczOy9f1HLbLduovcvtaOpCUZM6EHrAwQ==
+

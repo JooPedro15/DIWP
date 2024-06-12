@@ -1,0 +1,4 @@
+Test data,${teams_group_name},${sensitivity_label},${sensitivity_label_no},${space_type},${space_type_no}
+1,"Public; Generic MS Teams space",Public,2,Generic MS Teams space,0
+2,"Public; Validator, L2 Aps Admin and L2 IM",Public,2,"Validator, L2 Aps Admin and L2 IM",4
+3,"Internal; L2 Apps Admin",Internal,1,L2 Apps Admin,1

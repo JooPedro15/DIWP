@@ -1,0 +1,9 @@
+Test data,${teams_group_name},${sensitivity_label},${sensitivity_label_no},${space_type},${space_type_no},${justification}
+1,"Internal; Validator, L2 apps Admin and L2 IM",Internal,1,"Validator, L2 Aps Admin and L2 IM",4,Automated testing
+2,"Confidential; Validator, L2 apps Admin and L2 IM",Confidential,0,"Validator, L2 Aps Admin and L2 IM",4,Automated testing
+3,Public; Validator and L2 Apps Admin,Public,2,Validator and L2 Apps Admin,3,Automated testing
+4,SC; Validator and L2 Apps Admin,Strictly Confidential,3,Validator and L2 Apps Admin,3,Automated testing
+5,Internal; L2 Apps Admin and L2 IM,Internal,1,L2 Apps Admin and L2 IM,2,Automated testing
+6,SC; L2 Apps Admin and L2 IM,Strictly Confidential,3,L2 Apps Admin and L2 IM,2,Automated testing
+7,Public; L2 Apps Admin,Public,2,L2 Apps Admin,1,Automated testing
+8,Confidential; L2 Apps Admin,Confidential,0,L2 Apps Admin,1,Automated testing
