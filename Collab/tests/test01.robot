@@ -1,8 +1,8 @@
 *** Settings ***
 Documentation        Main components verification (Libraries, Dasboard, Calendars and Links)
 Library              SeleniumLibrary
-Resource             DW/Collab/resources/login.robot
-Resource             DW/Collab/resources/homepage.robot
+Resource             DIWP/Collab/resources/login.robot
+Resource             DIWP/Collab/resources/homepage.robot
 Test Setup           Open Collab site    ${collab_test_uat}    chrome
 Test Teardown        Close Browser
 
